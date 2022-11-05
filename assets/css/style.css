@@ -101,19 +101,19 @@ h6 {
   line-height: 1;
   display: inline-block;
 }
-@media(max-width: 320px) {
+@media(min-width: 320px) {
   #header h1 a{
     font-size: 23px;
   }
 }
 
-@media(max-width: 375px) {
+@media(min-width: 375px) {
   #header h1 a{
     font-size: 23px;
   }
 }
 
-@media(max-width: 425px) {
+@media(min-width: 425px) {
   #header h1 a{
     font-size: 23px;
   }
