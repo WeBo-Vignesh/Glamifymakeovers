@@ -97,7 +97,7 @@ h6 {
 #header h1 a,
 #header h1 a:hover {
   color: #fff;
-  font-size: 40px;
+  font-size: 30px;
   line-height: 1;
   display: inline-block;
 }
@@ -110,7 +110,7 @@ h6 {
 
 @media (max-width: 320px) {
   #header h1 a{
-    font-size: 27px;
+    font-size: 23px;
   }
 }
 
