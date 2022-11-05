@@ -107,6 +107,18 @@ h6 {
   }
 }
 
+@media(max-width: 375px) {
+  #header h1 a{
+    font-size: 23px;
+  }
+}
+
+@media(max-width: 425px) {
+  #header h1 a{
+    font-size: 23px;
+  }
+}
+
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
